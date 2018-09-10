@@ -53,4 +53,8 @@ TSP(旅行商问题，Traveling Salesman Problem)：给定一系列城市和每�
 
 ## Case2：基于遗传算法的BP神经网络优化算法
 
-## Case3：基于遗传算法的
+## Case3：基于遗传算法的LQR控制算法
+
+# SVm算法
+
+
